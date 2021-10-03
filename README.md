@@ -2,8 +2,8 @@
 
 ## How can you contribute ?
 
-This is a beginner friendly repo. 
-It would be good if you have a basic knowledge about HTML.
+This is a beginner friendly repository 
+It would be better if you have a basic knowledge about HTML.
 
 ### Step 1:
 Click on the file named ```index.html```
